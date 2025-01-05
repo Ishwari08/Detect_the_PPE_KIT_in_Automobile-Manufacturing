@@ -48,7 +48,6 @@ For hardware or equipment, installation involves physical setup, connecting comp
 
 ## Results-
 Detected items will be displayed with bounding boxes and labels.
-![Uploading image.png…]()
 
 ## Future Scope
 - Expand the detection system to include additional PPE items or safety regulations.
