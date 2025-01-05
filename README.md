@@ -34,7 +34,11 @@ This project aims to detect Personal Protective Equipment (PPE) kits in an autom
 - **Programming Language**: Python
 - **Tools**: OpenCV, YOLO (You Only Look Once) for object detection
 - **Hardware**: Industrial cameras and GPUs for real-time analysis
-
+  
+## Installation
+1. Clone the repository:
+   git clone /c:/jupyter/Infosys Intern Project/Detect-the-PPE-Kit-in-Automobile-Manufacturing-Project
+   
 ## Future Scope
 - Expand the detection system to include additional PPE items or safety regulations.
 - Integrate with IoT devices for enhanced monitoring and automated response mechanisms.
