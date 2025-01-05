@@ -35,5 +35,7 @@ This project aims to detect Personal Protective Equipment (PPE) kits in an autom
 - **Tools**: OpenCV, YOLO (You Only Look Once) for object detection
 - **Hardware**: Industrial cameras and GPUs for real-time analysis
 
-  
-
+## Future Scope
+- Expand the detection system to include additional PPE items or safety regulations.
+- Integrate with IoT devices for enhanced monitoring and automated response mechanisms.
+- Leverage edge computing for improved performance in low-latency environments.
