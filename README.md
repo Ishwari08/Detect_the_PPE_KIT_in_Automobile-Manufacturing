@@ -29,3 +29,11 @@ This project aims to detect Personal Protective Equipment (PPE) kits in an autom
 - **Regulatory Adherence**: Supports compliance with industry safety standards.
 - **Integrated Approach**: Combines multiple detection and recognition capabilities into a seamless system.
 
+## Technology Stack
+- **Frameworks:** TensorFlow, PyTorch
+- **Programming Language**: Python
+- **Tools**: OpenCV, YOLO (You Only Look Once) for object detection
+- **Hardware**: Industrial cameras and GPUs for real-time analysis
+
+  
+
