@@ -37,22 +37,19 @@ This project aims to detect Personal Protective Equipment (PPE) kits in an autom
 
 ## Installation
 Installation refers to the process of setting up software, equipment, or tools to make them operational. It involves downloading, configuring, and integrating the necessary components.
-
 Key Steps in Software Installation:
-
-Download: Obtain the installation file from a trusted source.
-
-Run Installer: Launch the installation program.
-
-Follow Instructions: Choose preferences like installation location and additional features.
-
-Install Dependencies: Ensure required libraries or tools are installed.
-
-Configuration: Set up initial settings and preferences.
-
-Verification: Test to confirm proper functionality.
-
+1. Download: Obtain the installation file from a trusted source.
+2. Run Installer: Launch the installation program.
+3. Follow Instructions: Choose preferences like installation location and additional features.
+4. Install Dependencies: Ensure required libraries or tools are installed.
+5. Configuration: Set up initial settings and preferences.
+6. Verification: Test to confirm proper functionality.
 For hardware or equipment, installation involves physical setup, connecting components, and ensuring compatibility with existing systems.
+
+## Results-
+Detected items will be displayed with bounding boxes and labels.
+![Uploading image.png…]()
+
 ## Future Scope
 - Expand the detection system to include additional PPE items or safety regulations.
 - Integrate with IoT devices for enhanced monitoring and automated response mechanisms.
