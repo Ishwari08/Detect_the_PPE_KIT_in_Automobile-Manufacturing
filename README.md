@@ -23,3 +23,9 @@ This project aims to detect Personal Protective Equipment (PPE) kits in an autom
 - Ensure the system performs reliably in challenging conditions, such as varying lighting or partial occlusions.
 - Integrate the module with human detection and PPE compliance monitoring for a unified safety solution.
 
+## Benefits
+- **Increased Safety**: Automates the enforcement of safety protocols, reducing the likelihood of accidents.
+- **Efficiency**: Real-time detection ensures immediate alerts for non-compliance.
+- **Regulatory Adherence**: Supports compliance with industry safety standards.
+- ** Integrated Approach**: Combines multiple detection and recognition capabilities into a seamless system.
+
