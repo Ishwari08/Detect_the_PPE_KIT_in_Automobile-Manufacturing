@@ -37,6 +37,9 @@ This project aims to detect Personal Protective Equipment (PPE) kits in an autom
   
 ## Installation
 1. Clone the repository:
+   
+   git clone /c:/jupyter/Infosys Intern Project/Detect-the-PPE-Kit-in-Automobile-Manufacturing-Project
+
    git clone /c:/jupyter/Infosys Intern Project/Detect-the-PPE-Kit-in-Automobile-Manufacturing-Project
    
 ## Future Scope
