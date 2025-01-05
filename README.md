@@ -8,17 +8,17 @@ This project aims to detect Personal Protective Equipment (PPE) kits in an autom
 3. Identity Verification: Authenticate workers using facial recognition technology to ensure compliance with safety regulations and access control policies.
 
 ## Features
-## 1. Human Detection in Restricted Zones
+### 1. Human Detection in Restricted Zones
 - Monitor industrial video feeds in real-time to detect humans entering No-Human Zones.
 - Define and configure restricted areas within the system for targeted monitoring.
 - Utilize deep learning models trained on datasets from industrial environments for high accuracy.
 
-## 2. PPE Kit Detection
+### 2. PPE Kit Detection
 - Detect mandatory safety equipment, including helmets, radium jackets, boots, and goggles.
 - Employ object detection models to classify PPE gear accurately.
 - Validate detection accuracy using labeled datasets to minimize false positives and negatives.
 
-## 3. Facial Recognition for Worker Identity Verification
+### 3. Facial Recognition for Worker Identity Verification
 - Authenticate worker identities using advanced facial recognition algorithms.
 - Ensure the system performs reliably in challenging conditions, such as varying lighting or partial occlusions.
 - Integrate the module with human detection and PPE compliance monitoring for a unified safety solution.
