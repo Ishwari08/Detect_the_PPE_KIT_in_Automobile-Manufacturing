@@ -37,10 +37,27 @@ This project aims to detect Personal Protective Equipment (PPE) kits in an autom
   
 ## Installation
 1. Clone the repository:
-   
-   git clone /c:/jupyter/Infosys Intern Project/Detect-the-PPE-Kit-in-Automobile-Manufacturing-Project
+   Ensure you have the necessary dependencies installed. A requirements.txt file is included for easy setup.
 
-   git clone /c:/jupyter/Infosys Intern Project/Detect-the-PPE-Kit-in-Automobile-Manufacturing-Project
+pip install -r requirements.txt
+Additional Setup
+Clone the repository:
+git clone https://github.com/yourusername/ppe-kit-detection.git
+cd ppe-kit-detection
+Download the pre-trained model weights (if applicable) and place them in the models directory.
+Usage
+Video Detection:
+
+Update the cap variable in the detect.py script as follows to use a specific video:
+
+cap = cv2.VideoCapture("../Videos/ppe-2.mp4")  # For Video
+Real-time Detection:
+
+Uncomment and use the following lines in the detect.py script for webcam input:
+
+# cap = cv2.VideoCapture(0)  # For Webcam
+# cap.set(3, 1280)
+# cap.set(4, 720)
    
 ## Future Scope
 - Expand the detection system to include additional PPE items or safety regulations.
