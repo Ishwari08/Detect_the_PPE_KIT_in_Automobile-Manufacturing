@@ -34,31 +34,25 @@ This project aims to detect Personal Protective Equipment (PPE) kits in an autom
 - **Programming Language**: Python
 - **Tools**: OpenCV, YOLO (You Only Look Once) for object detection
 - **Hardware**: Industrial cameras and GPUs for real-time analysis
-  
+
 ## Installation
-1. Clone the repository:
-   Ensure you have the necessary dependencies installed. A requirements.txt file is included for easy setup.
+Installation refers to the process of setting up software, equipment, or tools to make them operational. It involves downloading, configuring, and integrating the necessary components.
 
-pip install -r requirements.txt
-Additional Setup
-Clone the repository:
-git clone https://github.com/yourusername/ppe-kit-detection.git
-cd ppe-kit-detection
-Download the pre-trained model weights (if applicable) and place them in the models directory.
-Usage
-Video Detection:
+Key Steps in Software Installation:
 
-Update the cap variable in the detect.py script as follows to use a specific video:
+Download: Obtain the installation file from a trusted source.
 
-cap = cv2.VideoCapture("../Videos/ppe-2.mp4")  # For Video
-Real-time Detection:
+Run Installer: Launch the installation program.
 
-Uncomment and use the following lines in the detect.py script for webcam input:
+Follow Instructions: Choose preferences like installation location and additional features.
 
-# cap = cv2.VideoCapture(0)  # For Webcam
-# cap.set(3, 1280)
-# cap.set(4, 720)
-   
+Install Dependencies: Ensure required libraries or tools are installed.
+
+Configuration: Set up initial settings and preferences.
+
+Verification: Test to confirm proper functionality.
+
+For hardware or equipment, installation involves physical setup, connecting components, and ensuring compatibility with existing systems.
 ## Future Scope
 - Expand the detection system to include additional PPE items or safety regulations.
 - Integrate with IoT devices for enhanced monitoring and automated response mechanisms.
